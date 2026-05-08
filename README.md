@@ -1,9 +1,9 @@
-<h1 align="center">Olá, eu sou o [SEU NOME] 👋</h1>
+<h1 align="center">Olá, eu sou o Márcio Souza 👋</h1>
 
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas @ FACINT</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue&style=flat" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=marciosouzagcm&color=blue&style=flat" alt="Contador de visitas" />
 </p>
 
 ---
@@ -49,8 +49,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marciosouzagcm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciosouzagcm&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
@@ -58,10 +58,10 @@
 ### 📫 Onde me encontrar
 
 <p align="left">
-<a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/márcio-souza-155171115" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:seu-email@gmail.com" target="_blank">
+<a href="mailto:marciosouzagcm@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </p>
