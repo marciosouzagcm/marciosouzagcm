@@ -1,48 +1,67 @@
-# Olá, eu sou o Márcio Souza 👋 (@marciosouzagcm)
+<h1 align="center">Olá, eu sou o [SEU NOME] 👋</h1>
 
-Desenvolvedor Full Stack focado em soluções de alta performance, arquitetura de sistemas financeiros e inovação tecnológica.
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas @ FACINT</h3>
 
----
-
-### 🚀 Projeto em Destaque: Trading Board Pro (V38.5)
-Atualmente, estou desenvolvendo uma plataforma avançada para análise e scanner de estratégias com opções (derivativos).
-
-**Principais Funcionalidades:**
-* **Scanner de Oportunidades:** Algoritmo que varre o mercado em busca de ROI positivo em estratégias como *Butterfly*, *Travas de Alta/Baixa*, *Iron Condor* e *Calendar Spreads*.
-* **Data Orchestrator:** Sistema de monitoramento automático (*Watcher*) que detecta novos arquivos Excel de cotações, processa os dados e atualiza o banco de dados em tempo real.
-* **Cálculo de Gregas:** Integração de escalas precisas para Delta, Gamma, Theta e Vega.
-* **Arquitetura Robusta:** Backend em Node.js/TypeScript, Banco de Dados TiDB (MySQL) e processamento assíncrono.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue&style=flat" alt="Contador de visitas" />
+</p>
 
 ---
 
-### 🛠️ Toolbox Tecnológico
-* **Linguagens:** TypeScript, JavaScript, Rust, Java, Python, Solidity.
-* **Frontend & UI:** React, CSS3 (Modern Dashboard Design).
-* **Backend & API:** Node.js, Express, REST APIs, Dotenv.
-* **Dados:** TiDB/MySQL, XLSX Processing, Data Mapping.
+### 🚀 Sobre mim
 
-### 🌱 Evolução Constante
-* **High Performance:** Aprofundando em Rust para motores de cálculo financeiro.
-* **Web3:** Desenvolvimento de Smart Contracts no ecossistema Soroban e Ethereum.
-* **Fintech:** Modelagem matemática para análise de risco em derivativos.
+🎓 Cursando **Análise e Desenvolvimento de Sistemas** na FACINT, com foco prático em **DevOps, Cloud Computing e Desenvolvimento Full-Stack**.
+
+💾 Atualmente estudando **Modelagem de Banco de Dados**: MER, Normalização 1FN/2FN/3FN e SQL avançado.
+
+🎯 Objetivo: Conquistar minha primeira oportunidade de **estágio em TI** nas áreas de Desenvolvimento, Dados ou DevOps para aplicar e expandir conhecimentos na prática.
 
 ---
 
-### 💞️ Colaboração e Networking
-Estou aberto a colaborações em projetos desafiadores:
-* Desenvolvimento de ferramentas para o Mercado Financeiro (FinTech).
-* Soluções escaláveis em Blockchain e Smart Contracts.
-* Integração de hardware e software em projetos IoT.
+### 🛠️ Tech Stack
 
-### 📫 Contato
-* **LinkedIn:** [Márcio Souza](https://www.linkedin.com/in/m%C3%A1rcio-souza-155171115/)
-* **E-mail:** [marciosouzagcm@gmail.com](mailto:marciosouzagcm@gmail.com)
-* **Localização:** Guarulhos, SP - Brasil
+**Estudando agora:**
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Próximos na grade da FACINT:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📚 Projetos de Estudo
+
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| **Modelagem-BD-Biblioteca** | Diagrama ER e script SQL para sistema de biblioteca | brModelo, MySQL, SQL |
+| **Logica-de-Programacao** | Exercícios de algoritmos, condicionais e repetição | Portugol, Fluxograma |
+| **Em breve** | Repositório de estudos em JavaScript e APIs | JavaScript, HTML, CSS |
+
+> Subindo meus primeiros projetos da faculdade aqui. Código de iniciante, mas com muita vontade de aprender.
 
 ---
 
-### ⚡ Curiosidade
-"Transformo dados brutos de mercado em inteligência visual e tomada de decisão estratégica através de código limpo e eficiente."
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
 ---
-*Pronomes: Ele/Dele*
+
+### 📫 Onde me encontrar
+
+<p align="left">
+<a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:seu-email@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+</p>
